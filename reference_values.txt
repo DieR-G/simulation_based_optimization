@@ -1,0 +1,6 @@
+Buses: 500, Time: 12836586
+Buses: 520, Time: 11570110
+Buses: 540, Time: 11929985
+Buses: 560, Time: 11955369
+Buses: 580, Time: 11992221
+Buses: 600, Time: 11996227
